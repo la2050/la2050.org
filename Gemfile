@@ -16,7 +16,7 @@ source "https://rubygems.org"
 # $ rbenv local 3.0.0
 
 # Latest available Ruby version on Netlify
-ruby "2.7.1"
+ruby "2.7.2"
 
 gem "jekyll", "~> 4.2"
 
