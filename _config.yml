@@ -1,0 +1,10 @@
+
+title: LA2050
+
+permalink: pretty
+
+exclude:
+  - CNAME
+  - README
+  - Gemfile
+  - Gemfile.lock
